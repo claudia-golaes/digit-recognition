@@ -1,1 +1,1 @@
-# digit-recognition
+# Digit Recognition in GNU OCTAVE
